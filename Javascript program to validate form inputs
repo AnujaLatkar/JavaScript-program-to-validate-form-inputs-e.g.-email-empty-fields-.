@@ -1,0 +1,16 @@
+JavaScript Program to Validate Form Inputs
+
+Form validation using JavaScript is the process of checking user
+input fields in a web form before submitting the data to the
+server. It ensures that required fields are not empty and that
+inputs like email addresses follow the correct format. JavaScript 
+validation improves data accuracy, prevents invalid submissions,
+and enhances user experience by showing error messages instantly
+without reloading the webpage.
+
+Common validations include:
+
+   Checking empty fields
+   Validating email format
+   Password length verification
+   Numeric or text input checking
